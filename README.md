@@ -1,6 +1,6 @@
 ## 瀑布流
 
-[预览地址](http://shadowwang.top/waterfall-sinanews/index.html)
+[预览地址](https://wang7211401.github.io/waterfall-sinanews/index.html)
 
 ## 懒加载原理
 
